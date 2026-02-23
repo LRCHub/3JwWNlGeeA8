@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニューデイズ（feat. 終末うにこ）",
+  "base_artist": "くじら",
+  "createdAt": "2026-02-23T05:11:18.379818Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニューデイズ",
+      "artist": "くじら, カゼヒキ",
+      "has_synced": false,
+      "path": "select/pl_01_ニューデイズ_くじら,_カゼヒキ.txt"
+    }
+  ]
+}
